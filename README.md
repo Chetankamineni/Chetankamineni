@@ -1,24 +1,9 @@
 <div align="center">
-  <h1>Hi 👋, I'm Chetan K</h1>
-  <h3>DevOps | Data Science | UI UX Designer | React Native</h3>
+  <h1>Hi 👋, I'm Chetan Kamineni</h1>
+  <h3>DevOps | Data Science | FullStack dev </h3>
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td style="border: none; vertical-align: middle; text-align: left;">
-      <ul>
-        <li><h4>📝 I regularly write articles on <a href=""> API calls </a></h4></li>
-        <li><h4>💬 Ask me about Tech</h4></li>
-        <li><h4>📫 Reach me at <a href="mailto:sridhar.kamineni@outlook.com">sridhar.kamineni@outlook.com</a></h4></li>
-      </ul>
-    </td>
-    <td style="border: none; vertical-align: middle; text-align: right;">
-      <img width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    </td>
-  </tr>
-</table>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <h2 align="left">⚒️ Languages-Tools:</h2>
 <div align="center">
