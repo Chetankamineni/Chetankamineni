@@ -25,7 +25,7 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetankamineni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> &nbsp&nbsp;
-<img src="https://leetcard.jacoblin.cool/ckaminen?theme=dark&font=MuseoModerno" height="150">
+<img src="https://leetcard.jacoblin.cool/chetan045_?theme=dark&font=MuseoModerno" height="150">
 </div>
 
 [![](https://visitcountpro.netlify.app/api?id=Chetankamineni&pretty=true)](https://visitcount.itsvg.in)
